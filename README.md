@@ -10,6 +10,14 @@ The program writes the line to `/output/entry.txt`:
 
 > That ten yuan you're afraid to lose will be forgotten by spring — the years you spend being afraid won't be.
 
+## The line
+
+108 characters, one sentence, addressed to a younger self who counted every
+small sum. The turn is the trade: the money is forgotten by spring, but the
+years spent being afraid are not. It is specific enough to sting a little,
+and warm rather than sentimental — something only this person's older self
+could say, drawn from a life actually lived.
+
 ## Run it
 
 ```sh
